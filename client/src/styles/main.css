@@ -1,0 +1,18 @@
+.container {
+    width: 100%;
+    display: flex;
+    overflow-x: hidden;
+}
+
+.chat_structure {
+    display: flex;
+    margin-bottom: 65px;
+}
+
+.line {
+    border: 0.5px solid #24212d;
+}
+
+.leftPanel {
+    width: 1347px;
+}

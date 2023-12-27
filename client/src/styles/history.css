@@ -1,0 +1,41 @@
+.hsitory {
+    padding: 30px 52px;
+}
+
+.name_history {
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    margin-top: 18px;
+}
+
+li {
+    margin-right: 38px;
+    cursor: pointer;
+    font-size: 16px;
+    color: #CDCDCD;
+    text-decoration: none;
+    transition: color 0.3s, text-decoration 0.3s;
+}
+
+li:hover {
+    color: #999999;
+
+}
+
+li.active {
+    color: #6CD97E;
+    text-decoration: underline;
+}
+
+.items {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: auto auto;
+    margin-top: 30px;
+}
