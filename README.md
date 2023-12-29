@@ -1,4 +1,4 @@
-# React Vite Clien
+# React Vite Client
 
 This project is a React application bootstrapped with Vite, located in the `client` directory.
 
